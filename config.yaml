@@ -1,0 +1,9 @@
+imgur:
+  client_id: "your_client_id"
+  client_secret: "your_client_secret"
+blog:
+  layout: "post"
+  categories: ["Travel"]
+  tags: ["Travel", "Backpacking", "RoadTrip", "Himalayas", "Photoblog", "WeekendDiaries"]
+  background_image: "witewall_3.png"
+  hidden: true
